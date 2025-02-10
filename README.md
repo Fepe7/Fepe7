@@ -1,4 +1,4 @@
-## Hi there 👋
+## Esto es una descripcion de mi cuenta de GitHub
 
 <!--
 **Fepe7/Fepe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
